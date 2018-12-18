@@ -1,6 +1,8 @@
 # exercice_OC
 Exercice OpenClassrooms
 
+Le 18/12/2018
+
 Etape numéro 1:
 Création d'un nouveau repository sur GitHub que j'ai nommé exercice_OC avec un fichier README.txt
 
